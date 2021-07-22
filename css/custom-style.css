@@ -1,0 +1,13 @@
+.hamba-bg-info {
+    background-color: rgba(240, 240, 239, 0.644);
+}
+
+.hamba-margin {
+    margin-top: 120px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
